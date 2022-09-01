@@ -1,0 +1,43 @@
+.feedbackContainer {
+    display: flex;
+    color: rgb(25, 25, 25);
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    flex-direction: column;
+    &:hover {
+        box-shadow: 10px 5px 5px rgba(0, 0, 0, .7);
+    }
+    & .gradeBtn {
+    border: none;
+    border-radius: 5px;
+    max-width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: 70px;
+    text-align: center;
+    background-color: transparent;
+    line-height: 0;
+    padding: 0;
+}
+& .btnContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+& .optionBtn {
+    border: none;
+    border-radius: 5px;
+    max-width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: 70px;
+    text-align: center;
+    background-color: transparent;
+    line-height: 0;
+    padding: 0;
+}
+}
+}

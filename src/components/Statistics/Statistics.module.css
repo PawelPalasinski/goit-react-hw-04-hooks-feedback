@@ -1,0 +1,19 @@
+.statistics {
+  margin: 25px 0;
+}
+
+.statistics .statisticsList {
+  list-style: none;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.statistics .statisticsList li {
+  margin: 5px 0;
+}
+
+.statistics .statisticsList li span {
+  font-weight: 700;
+}
+/*# sourceMappingURL=Statistics.module.css.map */

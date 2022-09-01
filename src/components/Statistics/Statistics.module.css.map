@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,MAAM,EAAE,MAAM;CAajB;;AAdD,AAEE,WAFS,CAEP,eAAe,CAAC;EAChB,UAAU,EAAE,IAAI;EAChB,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,MAAM;EACd,OAAO,EAAE,CAAC;CAOX;;AAbH,AAOI,WAPO,CAEP,eAAe,CAKb,EAAE,CAAC;EACH,MAAM,EAAE,KAAK;CAId;;AAZL,AASM,WATK,CAEP,eAAe,CAKb,EAAE,CAEA,IAAI,CAAC;EACL,WAAW,EAAE,GAAG;CACjB",
+    "sources": [
+        "Statistics.module.scss"
+    ],
+    "names": [],
+    "file": "Statistics.module.css"
+}
