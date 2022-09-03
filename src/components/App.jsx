@@ -1,9 +1,9 @@
-import { FeedbackOptions } from './FeedbackOptions/FeedbackOptions';
+import { Feedback } from './Feedback/Feedback';
 
 export const App = () => {
   return (
     <div>
-      <FeedbackOptions />
+      <Feedback />
     </div>
   );
 };

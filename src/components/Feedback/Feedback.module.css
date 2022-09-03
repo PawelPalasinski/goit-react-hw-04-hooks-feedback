@@ -1,0 +1,22 @@
+.feedbackContainer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  color: #191919;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border: 1px solid grey;
+  border-radius: 10px;
+  text-align: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.feedbackContainer:hover {
+  -webkit-box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.7);
+          box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.7);
+}
+/*# sourceMappingURL=Feedback.module.css.map */
