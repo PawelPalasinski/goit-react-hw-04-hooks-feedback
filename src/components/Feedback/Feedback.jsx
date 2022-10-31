@@ -19,7 +19,7 @@ export const Feedback = () => {
     ['Good', good],
     ['Neutral', neutral],
     ['Bad', bad],
-    ['Total: ', good + neutral + bad],
+    ['Total', good + neutral + bad],
     ['Positive feedback', `${positivePercentage}%`],
   ];
 
